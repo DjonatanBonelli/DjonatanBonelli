@@ -1,4 +1,4 @@
-### <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/> Olá!! Sou iniciante em desenvolvimento e pentest!<br>
+### <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/> Olá!! Sou iniciante em desenvolvimento e pentest!<br> 
 <div style="display: inline_block"><br>
 
 <!--
