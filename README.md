@@ -1,4 +1,4 @@
-### <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/> Olá!! Sou iniciante em desenvolvimento e pentest! 
+### <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/> Olá!! Sou iniciante em desenvolvimento e pentest! 
 
 <!--
 **FenrirTG1/FenrirTG1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,9 +26,6 @@ Here are some ideas to get you started:
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img align="center" alt="Kali" height="30" width="40" src="https://img.icons8.com/color/48/000000/kali-linux.png"/>
-  <img align="center" alt="Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  
-   
+  <img align="center" alt="Kali" height="30" width="40" src="https://img.icons8.com/color/48/000000/kali-linux.png">
   </div>
 
