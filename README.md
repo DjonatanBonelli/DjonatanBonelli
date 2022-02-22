@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   <a href="https://github.com/FenrirTG1">
-  <img align="left" alt="Fenrir" height="150" src="https://user-images.githubusercontent.com/100157600/155187974-02db428e-8c79-4341-ad55-348e8c485ea5.gif"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FenrirTG1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img align="left" alt="Fenrir" height="200" src="https://user-images.githubusercontent.com/100157600/155187974-02db428e-8c79-4341-ad55-348e8c485ea5.gif"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=FenrirTG1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
      </div>
 
