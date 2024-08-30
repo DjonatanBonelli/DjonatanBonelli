@@ -1,12 +1,11 @@
-### <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/> Djonatan <br> 
+### <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/> <br> 
 <div style="display: inline_block"><br>
 
 <div align="center">
   <a href="https://github.com/DjonatanBonelli">
-  <img align="left" alt="Djonatan" height="200" src="https://user-images.githubusercontent.com/100157600/155187974-02db428e-8c79-4341-ad55-348e8c485ea5.gif"/>
-  <img height="200" src="https://github-readme-stats.vercel.app/api?usernameDjonatanBonelli&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?usernameDjonatanBonelli&layout=compact&langs_count=7&theme=radical"/> -->
-     </div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DjonatanBonelli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DjonatanBonelli&layout=compact&langs_count=7&theme=dracula"/>
+</div>
   </div>
   <div style="display: inline_block"><br>
    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
