@@ -1,4 +1,4 @@
-### <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/> <br> 
+##
 <div style="display: inline_block"><br>
 
 <div align="center">
