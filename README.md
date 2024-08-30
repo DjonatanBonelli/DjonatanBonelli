@@ -1,4 +1,4 @@
-### <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/> Iniciante em desenvolvimento!<br> 
+### <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/> Djonatan <br> 
 <div style="display: inline_block"><br>
 
 <div align="center">
@@ -17,6 +17,6 @@
   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="Kali" height="30" width="40" src="https://img.icons8.com/color/48/000000/kali-linux.png">
   
-   ![Snake animation](https://github.com/DjonatanBonelli/DjonatanBonelli/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/DjonatanBonelli/DjonatanBonelli/blob/output/github-contribution-grid-snake.svg)
     
   </div>
